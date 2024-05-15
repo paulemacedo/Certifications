@@ -1,7 +1,7 @@
-
-
 # Certifications
-- **[Cambridge Assessment English](https://1drv.ms/b/s!AielbXlFzG39iYkxbWaUXNFf1ZTE9A?e=hSuS3f)** - No expiration
+### English
+- **[EF SET (C1 Advanced) ](https://1drv.ms/b/s!AielbXlFzG39iYkxbWaUXNFf1ZTE9A?e=hSuS3f)** - May/2024 | No expiration
+- **[Cambridge Assessment English (B1 Intermediate)](https://1drv.ms/b/s!AielbXlFzG39iYkxbWaUXNFf1ZTE9A?e=hSuS3f)** - Sep/2021 | No expiration
 
 # Badges
 <img src="https://github.com/paulemacedo/paulemacedo/assets/59907505/913f56d1-fb83-41f8-ab47-9c6ee78991eb" alt="Santander" width="100" >
